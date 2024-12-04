@@ -12,7 +12,7 @@
   <br>
 
   <p>
-    <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/b0824/sublink-worker">
+    <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/b08240/sublink-worker">
       <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers"/>
     </a>
   </p>
